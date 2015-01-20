@@ -1,4 +1,4 @@
 Django==1.7.3
 dj-database-url==0.3.0
-uwsgi==2.0.8
+uWSGI==2.0.9
 whitenoise==1.0.6
