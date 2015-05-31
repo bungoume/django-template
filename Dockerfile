@@ -10,7 +10,7 @@ RUN pip install -r requirements.txt
 
 COPY . /usr/src/app
 
-RUN python debug_server/manage.py collectstatic --noinput
+RUN python {{ project_name }}/manage.py collectstatic --noinput
 
 EXPOSE 8000
 
