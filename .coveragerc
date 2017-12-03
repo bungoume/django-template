@@ -1,0 +1,4 @@
+[report]
+include = {{ project_name }}/**
+omit = {{ project_name }}/*/tests/**
+       {{ project_name }}/*/tests.py
