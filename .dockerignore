@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# env
+.Python
+env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+junit.xml
+coverage.xml
+flake8.txt
+
+# Database
+*.sqlite3
+
+# Pycharm
+.idea/
+
+.git
+.github/
+.circleci/
