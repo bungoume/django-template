@@ -1,4 +1,4 @@
 Django==1.11.21
 newrelic==2.96.0.80
-raven==6.3.0
+raven==6.10.0
 whitenoise==3.3.1
