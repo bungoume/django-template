@@ -1,4 +1,4 @@
-Django==1.11.21
+Django==1.11.29
 newrelic==2.96.0.80
 raven==6.3.0
 whitenoise==3.3.1
